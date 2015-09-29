@@ -10,17 +10,23 @@
     margin: 0;
     padding: 0 0 12px 8px;
     line-height: 14px;
+    margin-top:9px;
+    margin-left: 55px;
 }
 .header-cart-contents {
     text-transform: uppercase;
+    color: #ff0000;
     
 }
 .header-cart-amount {
-    
+	color: #ff0000;
+	
 }
 .header-cart-checkout {
     margin: 0;
     padding: 0 0 0 6px;
+    margin-top: 100px;
+    display: none;
 }
 .header-cart-checkout .fa {
     font-size: 13px;
@@ -48,6 +54,7 @@
 .woocommerce .woocommerce-breadcrumb,
 .woocommerce-page .woocommerce-breadcrumb {
     line-height: 15px;
+    display: none;
     font-size: 11px;
     text-transform: uppercase;
     margin: 0 auto 12px;
@@ -74,7 +81,7 @@
     width: 50%;
     text-align: right;
     margin: 0 0 30px;
-    padding: 10px 0;
+    padding: 15px 0 16px;
     float: left;
 }
 .woocommerce .woocommerce-ordering select,
@@ -99,11 +106,18 @@
 .woocommerce ul.products li.product,
 .woocommerce-page ul.products li.product {
     width: 24%;
-    margin: 0 0.5% 35px;
+    margin: 3.5% 0.5% 35px;
     text-align: center;
     float: left;
     list-style-type: none;
     position: relative;
+    
+}
+.product-category{
+	width: 49%!important;
+}
+.woocommerce li.product-category a img, .woocommerce-page li.product-category a img {
+	width: 60%!important;
 }
 
 .woocommerce nav.woocommerce-pagination ul li a,
@@ -141,9 +155,13 @@
     line-height: 1em;
     font-weight: 500;
     margin: 0;
-    padding: 8px 0;
-    text-align: center;
-    font-size: 18px;
+    padding: 20px 0;
+    text-align: left;
+    font-size: 25px;
+    border-top: 1px solid gray;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
 }
 .woocommerce #content ul.products li.product span.price,
 .woocommerce-page #content ul.products li.product span.price {
@@ -224,8 +242,8 @@
 .woocommerce-page #review_form #respond .form-submit input,
 .woocommerce ul.products li.product a.add_to_cart_button,
 .woocommerce-page ul.products li.product a.add_to_cart_button {
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    color: #FFF;
+    
+    color: #ff0000;
     font-size: 13px;
     font-weight: 500;
     text-transform: uppercase;
@@ -252,7 +270,7 @@
 
 .woocommerce ul.products li.product a:hover img,
 .woocommerce-page ul.products li.product a:hover img {
-    box-shadow: 0 0 0 4px rgb(28, 28, 28), 0 2px 18px rgba(0, 0, 0, 0.7);
+   
 }
 .woocommerce ul.products li.product a:hover .star-rating,
 .woocommerce-page ul.products li.product a:hover .star-rating {
@@ -288,11 +306,10 @@
 .woocommerce-page button.button.alt {
     text-shadow: none !important;
     font-size: 14px;
-    font-weight: 400;
-    border: 1px solid rgba(0, 0, 0, 0.14);
+    font-weight: 400;    
     padding: 9px 30px 10px;
-    margin: 0 0 0 7px;
-    color: #FFF;
+    margin: 0 0 0 -167px;
+    color: #ff0000;
 }
 .woocommerce table.cart td.actions .coupon .input-text,
 .woocommerce-page #content table.cart td.actions .coupon .input-text,

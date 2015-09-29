@@ -77,6 +77,7 @@ $table_prefix  = 'wp_';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
 define('WP_DEBUG', false);
+define('WPLANG', 'ru_RU');
 
 /* Это всё, дальше не редактируем. Успехов! */
 

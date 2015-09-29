@@ -1,0 +1,8 @@
+<?php exit(0); ?>
+{"user_login":"adm","user_password":"","attempt_time":1443004888,"remote_addr":"192.168.0.100","user_agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/45.0.2454.99 Safari\/537.36"}
+{"user_login":"adm","user_password":"","attempt_time":1443004938,"remote_addr":"192.168.0.100","user_agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/45.0.2454.99 Safari\/537.36"}
+{"user_login":"adm","user_password":"","attempt_time":1443005071,"remote_addr":"192.168.0.100","user_agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/45.0.2454.99 Safari\/537.36"}
+{"user_login":"adm","user_password":"","attempt_time":1443005137,"remote_addr":"192.168.0.100","user_agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/45.0.2454.99 Safari\/537.36"}
+{"user_login":"adm","user_password":"","attempt_time":1443005151,"remote_addr":"192.168.0.100","user_agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/45.0.2454.99 Safari\/537.36"}
+{"user_login":"adm","user_password":"","attempt_time":1443005504,"remote_addr":"192.168.0.100","user_agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit\/600.8.9 (KHTML, like Gecko) Version\/7.1.8 Safari\/537.85.17"}
+{"user_login":"adm","user_password":"","attempt_time":1443514020,"remote_addr":"192.168.0.100","user_agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/45.0.2454.99 Safari\/537.36"}
